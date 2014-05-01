@@ -26,3 +26,5 @@ Some important notes:
 2) we found 20-50 iterations are usually enough for ITQ
 
 If there is a bug, don't hesitate to contact me, Thanks!
+
+Test making change.
